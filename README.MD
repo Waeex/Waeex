@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Hola, Vida solo una, si no corres vuelas, la vida fluye mientras sueñas
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Miguel Perez Ramirez_
 
 ## Comenzando 🚀
 
@@ -81,15 +81,13 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Su servilleta** - *Trabajo Inicial* - [Waeex](https://github.com/Waeex)
+* **Miguel :v** - *Documentación* - [Waeex](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
 
 ## Expresiones de Gratitud 🎁
